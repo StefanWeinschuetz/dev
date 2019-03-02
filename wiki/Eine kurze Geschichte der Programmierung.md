@@ -36,3 +36,9 @@ Toolings:
 Logging
 Testing
 PowerProductiveTools Firmen die Software schreiben, welche die Programmierer effizienter machen...
+
+#Struktur:
+##Was ist Software?
+##Beginn der Softwareentwicklung
+
+##kambrische Explosion der Software
