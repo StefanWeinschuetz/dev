@@ -69,7 +69,7 @@ Software ist etwas was steuert. Software steuert eine Maschine, nämlich einen C
 ##Wie entsteht Software?
 Software wird geschrieben. Nämlich von einem Programmierer. Der Programmierer spricht leider eine andere Sprache, als die Maschine. Die Maschine versteht leider nur 0 und 1. Die ersten Programmierer programmierten die Maschine noch in dem sie Kabel an der Maschine neu zusammensteckten. 
 
-![Verdrahtung eines Computers](/pics/20190302_erste_programmierung_eines_computers.png "TESTTESTTEST")
+![Verdrahtung eines Computers](https://github.com/StefanWeinschuetz/dev/tree/master/wiki/pics/20190302_erste_programmierung_eines_computers.png "TESTTESTTEST")
 
 
 ##Beginn der Softwareentwicklung
