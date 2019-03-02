@@ -167,4 +167,74 @@ nginx:alpine
 fork vs. branch?
 
 ## Konferenz
+Todo: Uno Playground???
+Todo: Electron Godova???
+Circuit Breaker Pattern
+Am besten bei jeder REST Kommunikation einbauen.
+Stateful Retry
+BPMN Workflow Engine
+Camunda
+Azure Durable Functions
+HTTP202 Accepted: Habs bekommen und gebe dir das Ergebnis später
+
+Idempotenz
+
+SAGA Pattern
+
+Camunda: Pull-Mechanismus. Ein Client kann sich subscriben um Arbeit entgegenzunehmen.
+
+GraphQl kann sich per Websockets registrieren um Daten gepushed zu bekommen.
+Der GraphQL-Client sollte Batching unterstützen.
+
+CloundFoundry?
+
+MongoDb:
+Integriert first Denkansatz
+
+TODO: Test: Ein Ubuntu via Docker starten und MongoDb installieren. Den Container stoppen und wieder starten, ist die Datenbank dann noch vorhanden?
+
+MongoDb Tool Robo 3T
+
+Erweiterung der WindowsConsole mit ConEMU
+Strg Shift e splittet die Console.
+
+Speakerdeck
+Domain Storytelling
+Verschiedene Modelle (Sichten) für ein und die selbe Sache, wie ein Atlas z.B. Es gibt geografische Sichten, politische usw.
+
+Structure 101 Software???
+
 ## DevOps Workshop
+
+Staging
+SwapSlots
+Langlaufende Tests nur im DailyBuild.
+
+Newman ist Postman CLI um automatisch PostmanCollections zu testen.
+
+__Monitoring wichtiger als Testing__
+
+RDPManager Software
+
+Eine Pipeline kann konfiguriert werden, viele Branches zu bauen.
+Man kann einer Pipeline sagen das diese zuständig ist, alle FeatureBranches zu bauen:
+
+Features/*
+
+Artifacts
+
+Ein Release kann Input aus mehreren BuildPipelines erhalten.
+
+Dependencies können als Artifacte gecached werden. Wenn NuGet dann einmal nicht vorhanden ist, funktioniert der Build trotzdem. DAnn wird die gecachte Variante genommen, ist Nuget vorhanden, dann wir die aktuelle genommen.
+
+Semantic Versioning
+gitversion
+
+In AzureDevOps können Branch-Policies definiert werden. Wer darf in Master pullen?
+
+GIT Pull-Push
+Simulierte Merges
+Google Mono Repository
+
+Cherry Picking
+Eine schon releaste Version die älter ist als der Master fixen.
