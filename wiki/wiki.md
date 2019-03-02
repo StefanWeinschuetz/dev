@@ -12,7 +12,7 @@ __Dieser Text ist fett geschrieben__
 This is a code example!
 ```
 
-Man kann mit arbeiten:
+Man kann mit Emojis arbeiten:
 ::bug:: ::bomb:: ::smile:: ::angry::
 
 ![alt text][logo]
